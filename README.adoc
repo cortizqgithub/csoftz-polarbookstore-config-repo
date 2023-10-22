@@ -1,2 +1,6 @@
 = csoftz-polarbookstore-config-repo
 Configuration Data store for the *_Polar Book Store_* System.
+
+== Apps
+* *Catalog Service:* Handles the Book Catalog.
+
